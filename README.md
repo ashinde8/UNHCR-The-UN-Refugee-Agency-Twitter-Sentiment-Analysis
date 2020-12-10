@@ -1,10 +1,10 @@
 # UNHCR-The-UN-Refugee-Agency-Twitter-Sentiment-Analysis
 
-# Word Count Disribution
+# Tweets Word Count Disribution
 
 ![unr_word_count](https://user-images.githubusercontent.com/59103315/101726820-3dfb3e80-3a81-11eb-811b-2450d9e5468d.png)
 
-# Sentiment Disribution
+# Sentiment Disribution of the Tweets
 
 ![unr_sentiment_distribution](https://user-images.githubusercontent.com/59103315/101726938-83b80700-3a81-11eb-9144-4e116249949b.png)
 
@@ -21,7 +21,6 @@
 ![unr_neutral_tweets_wc](https://user-images.githubusercontent.com/59103315/101728118-ced31980-3a83-11eb-8b06-e0d70d9e3f3d.png)
 
 # All Tweets Wordcloud
-
 
 ![unr_total_tweets_wc](https://user-images.githubusercontent.com/59103315/101728922-46ee0f00-3a85-11eb-92e0-abc9379cdd07.png)
 
