@@ -1,10 +1,10 @@
 # UNHCR-The-UN-Refugee-Agency-Twitter-Sentiment-Analysis
 
-# Tweets Word Count Disribution
+# Tweets Word Count Distribution
 
 ![unr_word_count](https://user-images.githubusercontent.com/59103315/101726820-3dfb3e80-3a81-11eb-811b-2450d9e5468d.png)
 
-# Sentiment Disribution of the Tweets
+# Sentiment Distribution of the Tweets
 
 ![unr_sentiment_distribution](https://user-images.githubusercontent.com/59103315/101726938-83b80700-3a81-11eb-9144-4e116249949b.png)
 
